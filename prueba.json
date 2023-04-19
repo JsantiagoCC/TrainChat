@@ -1,0 +1,602 @@
+[
+  {
+    "MODELO": "MODELO 1",
+    "PRECIO": 15558,
+    "CALIFICACION": 1,
+    "Consumo prom": "6%"
+  },
+  {
+    "MODELO": "MODELO 2",
+    "PRECIO": 6166,
+    "CALIFICACION": 3,
+    "Consumo prom": "8%"
+  },
+  {
+    "MODELO": "MODELO 3",
+    "PRECIO": 19367,
+    "CALIFICACION": 1,
+    "Consumo prom": "9%"
+  },
+  {
+    "MODELO": "MODELO 4",
+    "PRECIO": 5696,
+    "CALIFICACION": 3,
+    "Consumo prom": "10%"
+  },
+  {
+    "MODELO": "MODELO 5",
+    "PRECIO": 9997,
+    "CALIFICACION": 1,
+    "Consumo prom": "10%"
+  },
+  {
+    "MODELO": "MODELO 6",
+    "PRECIO": 11930,
+    "CALIFICACION": 5,
+    "Consumo prom": "10%"
+  },
+  {
+    "MODELO": "MODELO 7",
+    "PRECIO": 19074,
+    "CALIFICACION": 3,
+    "Consumo prom": "7%"
+  },
+  {
+    "MODELO": "MODELO 8",
+    "PRECIO": 10850,
+    "CALIFICACION": 1,
+    "Consumo prom": "10%"
+  },
+  {
+    "MODELO": "MODELO 9",
+    "PRECIO": 9071,
+    "CALIFICACION": 1,
+    "Consumo prom": "7%"
+  },
+  {
+    "MODELO": "MODELO 10",
+    "PRECIO": 10218,
+    "CALIFICACION": 5,
+    "Consumo prom": "10%"
+  },
+  {
+    "MODELO": "MODELO 11",
+    "PRECIO": 13663,
+    "CALIFICACION": 4,
+    "Consumo prom": "10%"
+  },
+  {
+    "MODELO": "MODELO 12",
+    "PRECIO": 13338,
+    "CALIFICACION": 3,
+    "Consumo prom": "9%"
+  },
+  {
+    "MODELO": "MODELO 13",
+    "PRECIO": 11036,
+    "CALIFICACION": 1,
+    "Consumo prom": "10%"
+  },
+  {
+    "MODELO": "MODELO 14",
+    "PRECIO": 9032,
+    "CALIFICACION": 4,
+    "Consumo prom": "7%"
+  },
+  {
+    "MODELO": "MODELO 15",
+    "PRECIO": 11163,
+    "CALIFICACION": 5,
+    "Consumo prom": "6%"
+  },
+  {
+    "MODELO": "MODELO 16",
+    "PRECIO": 4204,
+    "CALIFICACION": 2,
+    "Consumo prom": "8%"
+  },
+  {
+    "MODELO": "MODELO 17",
+    "PRECIO": 8625,
+    "CALIFICACION": 2,
+    "Consumo prom": "9%"
+  },
+  {
+    "MODELO": "MODELO 18",
+    "PRECIO": 12480,
+    "CALIFICACION": 1,
+    "Consumo prom": "6%"
+  },
+  {
+    "MODELO": "MODELO 19",
+    "PRECIO": 5964,
+    "CALIFICACION": 1,
+    "Consumo prom": "10%"
+  },
+  {
+    "MODELO": "MODELO 20",
+    "PRECIO": 16154,
+    "CALIFICACION": 5,
+    "Consumo prom": "7%"
+  },
+  {
+    "MODELO": "MODELO 21",
+    "PRECIO": 5778,
+    "CALIFICACION": 3,
+    "Consumo prom": "6%"
+  },
+  {
+    "MODELO": "MODELO 22",
+    "PRECIO": 13193,
+    "CALIFICACION": 3,
+    "Consumo prom": "5%"
+  },
+  {
+    "MODELO": "MODELO 23",
+    "PRECIO": 19163,
+    "CALIFICACION": 5,
+    "Consumo prom": "6%"
+  },
+  {
+    "MODELO": "MODELO 24",
+    "PRECIO": 7717,
+    "CALIFICACION": 5,
+    "Consumo prom": "7%"
+  },
+  {
+    "MODELO": "MODELO 25",
+    "PRECIO": 18900,
+    "CALIFICACION": 4,
+    "Consumo prom": "10%"
+  },
+  {
+    "MODELO": "MODELO 26",
+    "PRECIO": 19618,
+    "CALIFICACION": 4,
+    "Consumo prom": "7%"
+  },
+  {
+    "MODELO": "MODELO 27",
+    "PRECIO": 18612,
+    "CALIFICACION": 1,
+    "Consumo prom": "8%"
+  },
+  {
+    "MODELO": "MODELO 28",
+    "PRECIO": 7209,
+    "CALIFICACION": 5,
+    "Consumo prom": "8%"
+  },
+  {
+    "MODELO": "MODELO 29",
+    "PRECIO": 18413,
+    "CALIFICACION": 3,
+    "Consumo prom": "5%"
+  },
+  {
+    "MODELO": "MODELO 30",
+    "PRECIO": 17978,
+    "CALIFICACION": 3,
+    "Consumo prom": "5%"
+  },
+  {
+    "MODELO": "MODELO 31",
+    "PRECIO": 10112,
+    "CALIFICACION": 4,
+    "Consumo prom": "10%"
+  },
+  {
+    "MODELO": "MODELO 32",
+    "PRECIO": 12626,
+    "CALIFICACION": 1,
+    "Consumo prom": "6%"
+  },
+  {
+    "MODELO": "MODELO 33",
+    "PRECIO": 18976,
+    "CALIFICACION": 3,
+    "Consumo prom": "6%"
+  },
+  {
+    "MODELO": "MODELO 34",
+    "PRECIO": 12386,
+    "CALIFICACION": 4,
+    "Consumo prom": "9%"
+  },
+  {
+    "MODELO": "MODELO 35",
+    "PRECIO": 18803,
+    "CALIFICACION": 5,
+    "Consumo prom": "5%"
+  },
+  {
+    "MODELO": "MODELO 36",
+    "PRECIO": 15887,
+    "CALIFICACION": 4,
+    "Consumo prom": "10%"
+  },
+  {
+    "MODELO": "MODELO 37",
+    "PRECIO": 5319,
+    "CALIFICACION": 2,
+    "Consumo prom": "10%"
+  },
+  {
+    "MODELO": "MODELO 38",
+    "PRECIO": 13497,
+    "CALIFICACION": 4,
+    "Consumo prom": "10%"
+  },
+  {
+    "MODELO": "MODELO 39",
+    "PRECIO": 4271,
+    "CALIFICACION": 2,
+    "Consumo prom": "9%"
+  },
+  {
+    "MODELO": "MODELO 40",
+    "PRECIO": 16967,
+    "CALIFICACION": 3,
+    "Consumo prom": "9%"
+  },
+  {
+    "MODELO": "MODELO 41",
+    "PRECIO": 10533,
+    "CALIFICACION": 5,
+    "Consumo prom": "9%"
+  },
+  {
+    "MODELO": "MODELO 42",
+    "PRECIO": 19712,
+    "CALIFICACION": 4,
+    "Consumo prom": "8%"
+  },
+  {
+    "MODELO": "MODELO 43",
+    "PRECIO": 9718,
+    "CALIFICACION": 5,
+    "Consumo prom": "6%"
+  },
+  {
+    "MODELO": "MODELO 44",
+    "PRECIO": 7017,
+    "CALIFICACION": 5,
+    "Consumo prom": "6%"
+  },
+  {
+    "MODELO": "MODELO 45",
+    "PRECIO": 12716,
+    "CALIFICACION": 1,
+    "Consumo prom": "7%"
+  },
+  {
+    "MODELO": "MODELO 46",
+    "PRECIO": 6286,
+    "CALIFICACION": 3,
+    "Consumo prom": "10%"
+  },
+  {
+    "MODELO": "MODELO 47",
+    "PRECIO": 17022,
+    "CALIFICACION": 4,
+    "Consumo prom": "10%"
+  },
+  {
+    "MODELO": "MODELO 48",
+    "PRECIO": 16048,
+    "CALIFICACION": 3,
+    "Consumo prom": "6%"
+  },
+  {
+    "MODELO": "MODELO 49",
+    "PRECIO": 7354,
+    "CALIFICACION": 4,
+    "Consumo prom": "6%"
+  },
+  {
+    "MODELO": "MODELO 50",
+    "PRECIO": 14098,
+    "CALIFICACION": 2,
+    "Consumo prom": "7%"
+  },
+  {
+    "MODELO": "MODELO 51",
+    "PRECIO": 15826,
+    "CALIFICACION": 2,
+    "Consumo prom": "10%"
+  },
+  {
+    "MODELO": "MODELO 52",
+    "PRECIO": 8096,
+    "CALIFICACION": 5,
+    "Consumo prom": "9%"
+  },
+  {
+    "MODELO": "MODELO 53",
+    "PRECIO": 12859,
+    "CALIFICACION": 4,
+    "Consumo prom": "5%"
+  },
+  {
+    "MODELO": "MODELO 54",
+    "PRECIO": 9952,
+    "CALIFICACION": 4,
+    "Consumo prom": "8%"
+  },
+  {
+    "MODELO": "MODELO 55",
+    "PRECIO": 13431,
+    "CALIFICACION": 4,
+    "Consumo prom": "5%"
+  },
+  {
+    "MODELO": "MODELO 56",
+    "PRECIO": 6449,
+    "CALIFICACION": 2,
+    "Consumo prom": "5%"
+  },
+  {
+    "MODELO": "MODELO 57",
+    "PRECIO": 12770,
+    "CALIFICACION": 4,
+    "Consumo prom": "8%"
+  },
+  {
+    "MODELO": "MODELO 58",
+    "PRECIO": 4938,
+    "CALIFICACION": 2,
+    "Consumo prom": "5%"
+  },
+  {
+    "MODELO": "MODELO 59",
+    "PRECIO": 8791,
+    "CALIFICACION": 1,
+    "Consumo prom": "5%"
+  },
+  {
+    "MODELO": "MODELO 60",
+    "PRECIO": 5799,
+    "CALIFICACION": 4,
+    "Consumo prom": "9%"
+  },
+  {
+    "MODELO": "MODELO 61",
+    "PRECIO": 13401,
+    "CALIFICACION": 5,
+    "Consumo prom": "5%"
+  },
+  {
+    "MODELO": "MODELO 62",
+    "PRECIO": 14204,
+    "CALIFICACION": 3,
+    "Consumo prom": "6%"
+  },
+  {
+    "MODELO": "MODELO 63",
+    "PRECIO": 17300,
+    "CALIFICACION": 1,
+    "Consumo prom": "10%"
+  },
+  {
+    "MODELO": "MODELO 64",
+    "PRECIO": 11936,
+    "CALIFICACION": 4,
+    "Consumo prom": "5%"
+  },
+  {
+    "MODELO": "MODELO 65",
+    "PRECIO": 8752,
+    "CALIFICACION": 2,
+    "Consumo prom": "6%"
+  },
+  {
+    "MODELO": "MODELO 66",
+    "PRECIO": 7664,
+    "CALIFICACION": 2,
+    "Consumo prom": "5%"
+  },
+  {
+    "MODELO": "MODELO 67",
+    "PRECIO": 15958,
+    "CALIFICACION": 2,
+    "Consumo prom": "9%"
+  },
+  {
+    "MODELO": "MODELO 68",
+    "PRECIO": 6933,
+    "CALIFICACION": 1,
+    "Consumo prom": "6%"
+  },
+  {
+    "MODELO": "MODELO 69",
+    "PRECIO": 14630,
+    "CALIFICACION": 2,
+    "Consumo prom": "8%"
+  },
+  {
+    "MODELO": "MODELO 70",
+    "PRECIO": 5993,
+    "CALIFICACION": 1,
+    "Consumo prom": "5%"
+  },
+  {
+    "MODELO": "MODELO 71",
+    "PRECIO": 10492,
+    "CALIFICACION": 3,
+    "Consumo prom": "10%"
+  },
+  {
+    "MODELO": "MODELO 72",
+    "PRECIO": 18585,
+    "CALIFICACION": 2,
+    "Consumo prom": "6%"
+  },
+  {
+    "MODELO": "MODELO 73",
+    "PRECIO": 16101,
+    "CALIFICACION": 2,
+    "Consumo prom": "6%"
+  },
+  {
+    "MODELO": "MODELO 74",
+    "PRECIO": 9671,
+    "CALIFICACION": 2,
+    "Consumo prom": "10%"
+  },
+  {
+    "MODELO": "MODELO 75",
+    "PRECIO": 4001,
+    "CALIFICACION": 2,
+    "Consumo prom": "7%"
+  },
+  {
+    "MODELO": "MODELO 76",
+    "PRECIO": 4990,
+    "CALIFICACION": 3,
+    "Consumo prom": "9%"
+  },
+  {
+    "MODELO": "MODELO 77",
+    "PRECIO": 16340,
+    "CALIFICACION": 2,
+    "Consumo prom": "9%"
+  },
+  {
+    "MODELO": "MODELO 78",
+    "PRECIO": 4066,
+    "CALIFICACION": 2,
+    "Consumo prom": "7%"
+  },
+  {
+    "MODELO": "MODELO 79",
+    "PRECIO": 19433,
+    "CALIFICACION": 2,
+    "Consumo prom": "7%"
+  },
+  {
+    "MODELO": "MODELO 80",
+    "PRECIO": 15646,
+    "CALIFICACION": 4,
+    "Consumo prom": "6%"
+  },
+  {
+    "MODELO": "MODELO 81",
+    "PRECIO": 16494,
+    "CALIFICACION": 5,
+    "Consumo prom": "9%"
+  },
+  {
+    "MODELO": "MODELO 82",
+    "PRECIO": 19177,
+    "CALIFICACION": 1,
+    "Consumo prom": "9%"
+  },
+  {
+    "MODELO": "MODELO 83",
+    "PRECIO": 17352,
+    "CALIFICACION": 1,
+    "Consumo prom": "9%"
+  },
+  {
+    "MODELO": "MODELO 84",
+    "PRECIO": 10925,
+    "CALIFICACION": 5,
+    "Consumo prom": "8%"
+  },
+  {
+    "MODELO": "MODELO 85",
+    "PRECIO": 11831,
+    "CALIFICACION": 2,
+    "Consumo prom": "7%"
+  },
+  {
+    "MODELO": "MODELO 86",
+    "PRECIO": 12383,
+    "CALIFICACION": 2,
+    "Consumo prom": "8%"
+  },
+  {
+    "MODELO": "MODELO 87",
+    "PRECIO": 6456,
+    "CALIFICACION": 2,
+    "Consumo prom": "9%"
+  },
+  {
+    "MODELO": "MODELO 88",
+    "PRECIO": 19909,
+    "CALIFICACION": 2,
+    "Consumo prom": "6%"
+  },
+  {
+    "MODELO": "MODELO 89",
+    "PRECIO": 19895,
+    "CALIFICACION": 1,
+    "Consumo prom": "8%"
+  },
+  {
+    "MODELO": "MODELO 90",
+    "PRECIO": 17255,
+    "CALIFICACION": 5,
+    "Consumo prom": "9%"
+  },
+  {
+    "MODELO": "MODELO 91",
+    "PRECIO": 14897,
+    "CALIFICACION": 5,
+    "Consumo prom": "5%"
+  },
+  {
+    "MODELO": "MODELO 92",
+    "PRECIO": 18971,
+    "CALIFICACION": 4,
+    "Consumo prom": "9%"
+  },
+  {
+    "MODELO": "MODELO 93",
+    "PRECIO": 9563,
+    "CALIFICACION": 3,
+    "Consumo prom": "9%"
+  },
+  {
+    "MODELO": "MODELO 94",
+    "PRECIO": 15966,
+    "CALIFICACION": 3,
+    "Consumo prom": "6%"
+  },
+  {
+    "MODELO": "MODELO 95",
+    "PRECIO": 8223,
+    "CALIFICACION": 4,
+    "Consumo prom": "6%"
+  },
+  {
+    "MODELO": "MODELO 96",
+    "PRECIO": 12106,
+    "CALIFICACION": 3,
+    "Consumo prom": "6%"
+  },
+  {
+    "MODELO": "MODELO 97",
+    "PRECIO": 11490,
+    "CALIFICACION": 4,
+    "Consumo prom": "9%"
+  },
+  {
+    "MODELO": "MODELO 98",
+    "PRECIO": 19159,
+    "CALIFICACION": 3,
+    "Consumo prom": "6%"
+  },
+  {
+    "MODELO": "MODELO 99",
+    "PRECIO": 15189,
+    "CALIFICACION": 4,
+    "Consumo prom": "6%"
+  },
+  {
+    "MODELO": "MODELO 100",
+    "PRECIO": 16003,
+    "CALIFICACION": 1,
+    "Consumo prom": "5%"
+  }
+]
